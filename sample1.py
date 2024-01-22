@@ -14,7 +14,7 @@ else:
     print('invalid')
   
 
-# Checking if the character is present in the string
+# Checking if the character is present in the STRING
 # if character_to_check in input_string:
 #     print("The character '{character_to_check}' is present in the string.")
 # else:
